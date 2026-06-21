@@ -1,0 +1,6 @@
+{
+  "name": "AI Career Studio",
+  "description": "Your ultimate completely free AI-powered career assistant. Resume builder, cover letters, ATS optimizer, interview preparation, LinkedIn profile generator, and more with no premium costs!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
